@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 Jun, 2017, 5:32:40 PM
+    Author     : Devansh Chaudhary
+*/
+
+#content{
+    min-height: 600px;
+    background-color: #fff;
+}
+#banner_image{
+    padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+height: 750px;
+color: #f8f8f8f8;
+background-image: url(bootstrap/img/background.jpg);
+background-size: cover;
+width: 100%;
+}
+
+#inner_banner_image{
+        padding-top: 12%;
+width:50%;
+margin:auto;
+}
+#banner_content{
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+}
+
+h1{
+    color: #fff;
+}
+
+p{
+    color:#fff;
+}
+.text-warning{
+    color: #fff;
+}
+
+.loginbackground{
+    background-image: url(bootstrap/img/bandhej.jpg);
+    background-size: cover;
+    height: 575px;
+}
+footer{
+    padding: 10px 0;
+background-color: #000;
+color:#fff;
+ bottom: 0;
+ width: 100%;
+ text-align: center;
+}
+.panel{
+    background-color:#000;
+    margin-top:120px; 
+    position:relative;;
+background-color:rgba(0, 0, 0, 0.4);
+max-width: 660px;
+}
+h4{
+    font-weight: bold;
+    font-size:30px;
+    font:sans-serif;
+    font-family:roboto ;
+}
+
+.panel-heading{
+    color: #fff;
+    background-color:#000;
+    text-align: center;
+    font-stretch: semi-expanded;
+    font-size: 20px;
+}
+
+
+.panel-footer{
+    background-color:#000;
+    color: #fff;
+    text-align-last: center;
+}
+.row_style{
+    margin-top: 40px;
+}
+form{
+    align-content: center;
+}
+.signupbackground{
+    background-image: url(bootstrap/img/clothmarket.jpg);
+    background-size: cover;
+}
+.panel1{
+    margin-top:60px;
+    margin-bottom: 60px;
+    position:relative;;
+background-color:rgba(0, 0, 0, 0.6);
+max-width: 660px;
+}
+.panel-heading1{
+    color: #fff;
+    background-color:rgba(0, 0, 0, 0);
+    text-align: center;
+    font-stretch: semi-expanded;
+    font-size: 20px;
+}
+
+
+
